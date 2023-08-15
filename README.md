@@ -86,6 +86,6 @@
 
 
 <h3>Контактная информация </h3>
-Email: philippova_a_d@mail.ru
+<p>Email: philippova_a_d@mail.ru </p>
 LinkedIn: https://www.linkedin.com/in/Anastasiya-Fedorova93/
 
